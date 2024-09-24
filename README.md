@@ -1,0 +1,1 @@
+# plugins-rollback-update-failure
